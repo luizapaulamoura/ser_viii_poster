@@ -7,11 +7,11 @@ format:
     departments: "Universidade Federal Fluminense"
     institution-logo: "./images/SER.png"
     footer-text: "VIII SER - Seminário Internacional de Estatística com R"
-    footer-url: "https://posit.co/conference/"
+    footer-url: "https://ser.uff.br/"
     footer-emails: "ser.uff.br@gmail.com"
     footer-color: "ebcfb2"
     keywords: ["Typesetting", "Typst", "Quarto"]
-csl: apa.csl
+csl: abnt.csl
 ---
 
 # Resumo
