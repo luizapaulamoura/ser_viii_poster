@@ -1,22 +1,23 @@
 ---
-title: Este é um modelo de poster para o VIII SER
+title: INOVAÇÃO AO ENSINO DE CIÊNCIAS EXATAS AVALIÇÃO DO CURRÍCULO INTRODUCTION TO DATA SCIENCE
 format:
   poster-typst: 
     size: "33x46"
-    poster-authors: "Marcus Ramalho, Luciane Alcoforado e Ariel Levy"
-    departments: "Universidade Federal Fluminense"
+    poster-authors: "Luiza Mura, Cedma Santos e Karla Esquerre"
+    departments: "Universidade Federal da Bahia"
     institution-logo: "./images/SER.png"
     footer-text: "VIII SER - Seminário Internacional de Estatística com R"
     footer-url: "https://ser.uff.br/"
     footer-emails: "ser.uff.br@gmail.com"
     footer-color: "ebcfb2"
-    keywords: ["Typesetting", "Typst", "Quarto"]
+    keywords: ["Ciência de Dados", "Educação", "Currículo"]
 csl: abnt.csl
+
 ---
 
 # Resumo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea variari voluptas distinguique possit, augeri amplificarique non possit. At etiam Athenis, ut e patre audiebam facete et urbane Stoicos irridente, statua est in quo a nobis philosophia defensa et collaudata est, cum id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, om- nis dolor repellendus. Temporibus autem quibusdam et.
+Iniciativas que tem como objetivo buscar fomentar ciência e tecnologia principalmente para estudantes do ensino básico da rede pública brasileira são de extrema importância. Neste contexto, a ciência de dados tem sido utilizada como principal ferramenta para a formação científica destes estudantes em iniciativas ao redor do mundo. Uma das mais conhecidas é o Introduction to Data Science (IDS), da Universidade da Califórnia Los Angeles, que utiliza, como ferramenta de apoio, a programação em R. Neste artigo será revisado o seu currículo juntamente com a viabilidade de sua aplicação para estudantes brasileiros, bem como o que é proposto quanto a introdução ao R. Isso é feito a partir do estudo íntegro do documento bem como a avaliação dele a partir dos seus dados textuais. O currículo, apesar de ser bom, precisa ser adaptado para se adequar à Base Nacional Comum Curricular.
 
 ![Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.](./images/Rosetta_stone.png){width="50%"}
 
@@ -53,11 +54,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea variari voluptas distinguique possit, augeri amplifi- carique non possit. At etiam Athenis, ut e patre audiebam facete et urbane Stoicos irridente, statua est in quo a nobis philosophia defensa et.
+O material do IDS é disponibilizado abertamente em um livro orientador. Neste artigo, as instruções são analisadas tomando partida de que  professor, assim como os estudantes, não conheciam previamente como programar em R. Também há práticas voltadas a conteúdo sobre estatística e probabilidade, uma área temática presente na matemática prevista na Base Nacional Comum Curricular (BNCC) para os ensinos fundamental e médio. Será verificado se as descrições contidas no material são compatíveis com as habilidades na área relativa da estatística e probabilidade, no caso do ensino fundamental I e II, e as relativas à área de matemática e suas tecnologias, no caso do ensino médio. Para isso, foi realizado um levantamento das palavras mais frequentes de ambos os textos, utilizando algoritmos de mineração de texto, a fim de conferir a compatibilidade de aplicação do material da iniciativa quanto ao currículo brasileiro.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
 
 :::
 
