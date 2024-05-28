@@ -1,5 +1,5 @@
 ---
-title: INOVAÇÃO AO ENSINO DE CIÊNCIAS EXATAS AVALIÇÃO DO CURRÍCULO INTRODUCTION TO DATA SCIENCE
+title: INOVAÇÃO AO ENSINO DE CIÊNCIAS EXATAS -- AVALIÇÃO DO CURRÍCULO INTRODUCTION TO DATA SCIENCE
 format:
   poster-typst: 
     size: "33x46"
@@ -17,38 +17,16 @@ csl: abnt.csl
 
 # Resumo
 
-Iniciativas que tem como objetivo buscar fomentar ciência e tecnologia principalmente para estudantes do ensino básico da rede pública brasileira são de extrema importância. Neste contexto, a ciência de dados tem sido utilizada como principal ferramenta para a formação científica destes estudantes em iniciativas ao redor do mundo. Uma das mais conhecidas é o Introduction to Data Science (IDS), da Universidade da Califórnia Los Angeles, que utiliza, como ferramenta de apoio, a programação em R. Neste artigo será revisado o seu currículo juntamente com a viabilidade de sua aplicação para estudantes brasileiros, bem como o que é proposto quanto a introdução ao R. Isso é feito a partir do estudo íntegro do documento bem como a avaliação dele a partir dos seus dados textuais. O currículo, apesar de ser bom, precisa ser adaptado para se adequar à Base Nacional Comum Curricular.
+Iniciativas que tem como objetivo buscar fomentar ciência e tecnologia principalmente para estudantes do ensino básico da rede pública brasileira são de extrema importância. Neste contexto, a ciência de dados tem sido utilizada como principal ferramenta para a formação científica destes estudantes em iniciativas ao redor do mundo. Uma das mais conhecidas é o *Introduction to Data Science (IDS)*, da Universidade da Califórnia Los Angeles, que utiliza, como ferramenta de apoio, a programação em R. Neste artigo será revisado o seu currículo juntamente com a viabilidade de sua aplicação para estudantes brasileiros, bem como o que é proposto quanto a introdução ao R. Isso é feito a partir do estudo íntegro do documento bem como a avaliação dele a partir dos seus dados textuais. O currículo, apesar de ser bom, precisa ser adaptado para se adequar à Base Nacional Comum Curricular.
 
-![Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.](./images/Rosetta_stone.png){width="50%"}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea variari voluptas distinguique possit, augeri amplificarique non pos- sit. At.
 
 # Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri.
-
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut.
-
-| Lorem ipsum dolor sit. | Lorem ipsum. | Lorem ipsum. |
-|------------------------|--------------|--------------|
-| Lorem ipsum dolor.     | Lorem ipsum. | $\alpha$     |
-| Lorem ipsum.           | Lorem ipsum. | $\beta$      |
-| Lorem.                 | Lorem.       | $\gamma$     |
-| Lorem ipsum dolor.     | Lorem.       | $\theta$     |
-
-: Lorem ipsum dolor sit amet {#tbl-1}
-
-Lorem @tbl-1 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea variari voluptas distinguique possit, augeri amplificarique non possit. At etiam Athenis, ut e patre audiebam facete et urbane Stoicos irridente, statua est in quo a nobis philosophia defensa et.
+ O estudo de dados, ainda em idade escolar, possibilita ao estudante reconhecer a relevância da matemática, por meio de suas próprias indagações, investigações, descobertas e busca de padrões ou tendências. Oportunizar este tipo de percepção aos estudantes, a fim de que eles possam avaliar estatísticas publicadas nos veículos midiáticos, principalmente as sobre a esfera pública, torna-se um desafio quando não há base sólida que inclui conhecimentos em matemática básica, estatística  e familiaridade com a representação visual ou numérica de dados (Engel, 2017).  Levando isso em consideração, são identificadas algumas iniciativas que realizam a concepção de um currículo que pode ser aplicado para ensinar, de forma lúdica, ciência de dados a jovens estudantes em idade escolar.  Uma delas é o *Introduction to Data Science (IDS)*, aplicado nos Estados Unidos. Ele foi desenvolvido na Universidade da Califórnia em Los Angeles (UCLA) e tem como autor principal Robert Gould, professor no departamento de estatística na mesma instituição. Para aplicá-lo, a instituição deve fazer uma parceria com a equipe do IDS com a duração de 2 anos.
 
 ## Objetivos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea variari voluptas distinguique possit, augeri amplificarique non possit. At etiam Athenis, ut e patre.
-
-![Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.](./images/Standard_lettering.png){width="100%"}
+É objetivo deste artigo realizar a revisão do material didático fornecido pela  UCLA sobre o currículo do curso de Introdução à Ciência de Dados em R (*Introduction to Data Science - IDS*), com a descrição das práticas para que professores possam aplicá-lo.
 
 # Material e Método
 
@@ -61,7 +39,25 @@ O material do IDS é disponibilizado abertamente em um livro orientador. Neste a
 
 ## Resultados e Discução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. 
+De uma forma geral, pode-se retratar o foco e as habilidades levadas em consideração pelo currículo IDS por meio da visualização das palavras mais frequentes no documento. Para isso, foi realizada uma mineração de texto do documento orientador em formato PDF. Isso pode ser comparado ao próprio texto referente ás habilidades previstas pela BNCC. A visualização das palavras frequentes de ambos os documentos está disponível na figura 1.
+
+![Palavras mais frequentes no documento orientador do IDS, à esquerda, e nas habilidades previstas na BNCC, à direita.](./images/palavras.png){width="100%"}
+
+É importante ressaltar que apesar de haver alguma semelhança relacionadas a vocabulário, a BNCC e o currículo do IDS não abordam os mesmos conteúdos de forma integral, o que pode ser percebido a partir da leitura completa dos documentos. Além disso, há limitações em termos semânticos dos vocábulos neste método.
+
+Nas orientações do IDS ao professor estão descritos os objetivos do encontro, os materiais necessários, o vocabulário que deve ser adquirido e descrição da atividade. Também são dispostos os questionamentos que devem ser feitos aos estudantes junto com respostas que podem surgir.  Este currículo é dividido em 4 unidades. Cada unidade possui diferentes eixos temáticos , onde há a proposição de diferentes atividades que estão de acordo com o objetivo de cada encontro. 
+
+Algo a pontuar sobre o ensino introdutório da programação em R no currículo é a falta de utilização de funções provenientes de bibliotecas, o que, em um momento inicial, pode facilitar, mas limita em termos do que a utilização de uma biblioteca como, por exemplo, a *dplyr*, proporciona ao simplificar a lógica do código quando comparado a formular usando apenas as funções nativas. O mesmo comentário pode ser feito nas próximas práticas de confecção de figuras para visualização de dados. Eles são feitos diretamente no *console*, o que, dependendo da situação, pode dificultar ou facilitar o aprendizado do estudante. O *Rscript* só é utilizado em um momento que as funções se tornam complexas complexas demais para seerem executadas no *console*.
+
+## Agradecimentos
+Os autores agradecem o apoio financeiro do CNPq|PIBIC, Projeto Ciência de Dados e Engenharia: Formação Científica Ética e Justiça Social, do CNPq/MCTIC, Proc. 409481/2021-1, Práticas Investigativas, Ciência de Dados e Inteligência Artificial na Educação Pública e da Fundação Itaú para Educação e Cultura, Projeto Ciência de Dados na Educação Pública.
 
 # Referências
 
+ENGEL, Joachim. Statistical literacy for active citizenship: A call for data science education. v. 16, n. 1, p. 44-49. Statistics Education Research Journal. May 2017.<https://doi.org/10.52041/serj.v16i1.213>
+BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília, 2018. <http://download.basenacionalcomum.mec.gov.br/ >
+GOULD, Robert; MACHADO, Suyen; JOHNSON, Terri Ana; MOLYNEUX, James. Introduction to Data Science.  v. 6. 400 p. Mar 2023. <https://www.mobilizingcs.org/>
+OOMS, J. (2023). _pdftools: Text Extraction, Rendering and Converting of PDF Documents_. R package version 3.4.0, <https://cran.r-project.org/web/packages/pdftools/index.html>.
+QUEIROZ, G.; FAY, C.; HVITFELDT, E.; KEYES, O.; MISRA, K.; MASTNY T.; ERICKSON, J.; ROBINSON, D.; SILGE, J. (2024). _tidytext: Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools_. R package version 0.4.2, <https://cran.r-project.org/web/packages/tidytext/index.html>.
+FELLOWS, I. (2022). _wordcloud: Word Clouds_. R package version 2.6, <https://cran.r-project.org/web/packages/wordcloud/index.html>.
+FEINERER, I.; HORNIK, K. (2024). tm: Text Mining Package_. R package version 0.7-13, <https://cran.r-project.org/web/packages/tm/index.html>
